@@ -1,0 +1,15 @@
+B01;Navy Women Long Sleeve;39.00;Maroon;Blouse;50;Soft & comfortable cotton, Free Size, Long sleeve, High collared neckline, V-neck.
+B02;Women +J Silk Gathered Long Sleeve;59.00;Blue;Blouse;50;Premium material and design. Free Size. Enjoy stylish, sophisticated looks with this versatile blouse. High-quality 100% silk. Designed with gathers and a tie for elegant styling that feels luxurious.
+B03;Victorian Inspired Blouse;59.00;Blue;Blouse;50;Material: Cotton polyblend, Free Size.
+B04;Casual Blouse;49.00;Yellow;Blouse;50;Material: Cotton polyblend, Free Size.
+B05;Button Front Solid Blouse;68.00;White;Blouse;50;Style: Basics. Pattern Type: Plain. Neckline: Collar. Sleeve Length: Long Sleeve. Material: Polyester.
+H01;Dreamtale Women Handbag Classy;189.00;White;Handbag;50;Measurement: 25cm(L) x 12cm(W) x 20cm(H), Material: PU Leather, Highlights: Can be used as sling bag, top handle bag, crossbody;
+H02;Front Zip Handbag;299.00;Pink;Handbag;50;Less is definitely more with this blush pink handbag. Sized perfectly for your daily essentials, and then some, this feminine number will look great against a black structured dress.
+H03;Colby Handbag;199.00;Khaki;Handbag;50;Material: Vegan leather and other man made materials. Measurement: 7.5" (H) x 7" (L) x 4" (W), Shoulder drop - 20", Weight: approx. 0.8 kg.
+H04;Verena Canvas Sling Bag;99.00;Beige;Handbag;50;Coated canvas, and other man made material, Water resistant but not water proof, Interior - 1 compartment, 1 slip pocket, zip closure, Measurement: 2" (W) x 10" (L) x 7.5" (H).
+H05;Women Handbag;199.00;Black;Handbag;50;Spacious handbag in sturdy, grained imitation leather with two handles and a zip at the top. Three inner compartments, one with a zip, and studs on the bottom. Lined. Size 15x30x36 cm.
+S01;Runfalcon Shoes;184.00;Core Black;Shoes;50;Regular fit, Lace closure, Mesh and synthetic leather upper, Rubber outsole; Synthetic cage over the midfoot, Synthetic heel cap, Lightweight EVA midsole, Lightweight feel.
+S02;Textured Casual Shoes;99.00;Pink;Shoes;50;Avoid contact with water, Fabric upper, Rubber sole.
+S03;Safety Shoes Steel Toe Trainers;199.00;Black;Shoes;50;ANTI-SMASH STEEL TOE CAP, PUNCTURE RESISTANT KEVLAT MIDSOLE, providing double safeguard for your foot. Outer Material: Synthetic. Inner Material: Textile. Sole: Gum Rubber. Closure: Lace-Up.
+S04;Women White PU High-Top Walking Shoes;250.00;White;Shoes;50;A pair of white walking sports shoes, has high-top styling, lace-up detail, PU upper, Cushioned footbed, Textured and patterned outsole.
+S05;Women's Endorphin Pro;230.00;Pink Yellow;Shoes;50;Shoe Category: Speed, Offset: 8mm (33.5/25.54), Weight:Women 6.3oz (179g), Sizes: Women 5-12.

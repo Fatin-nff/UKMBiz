@@ -1,0 +1,8 @@
+S01;Runfalcon Shoes;184.0;Core Black;Shoes;50;Regular fit, Lace closure, Mesh and synthetic leather upper, Rubber outsole;
+S02;Textured Casual Shoes;99.0;Pink;Shoes;50;Avoid contact with water, Fabric upper, Rubber sole.;
+S03;Safety Shoes Steel Toe Trainers;199.0;Black;Shoes;50;ANTI-SMASH STEEL TOE CAP. PUNCTURE RESISTANT KEVLAT MIDSOLE. Outer Material: Synthetic. Inner Material: Textile. Sole: Gum Rubber. Closure: Lace-Up.;
+S04;Women White PU High-Top Walking Shoes;250.0;White;Shoes;50;A pair of white walking sports shoes, has high-top styling, lace-up detail, PU upper, Cushioned footbed, Textured and patterned outsole.;
+S05;Women's Endorphin Pro;230.0;Pink Yellow;Shoes;50;Shoe Category: Speed, Offset: 8mm (33.5/25.54), Weight:Women 6.3oz (179g), Sizes: Women 5-12.;
+S06;High Heel;99.00;Rose Gold;Shoes;10;Nice;
+P01;d;5.0;t;Shoes;5;g;
+
